@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>ZDF series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>ZDF series</description>
+<title>ZDF - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>ZDF - סדרות</description>
 
 <item>
 <title>Sea Power (2021)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/205110?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/422046" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt15771508" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 02 Sep 2021 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/422046/posters/65ce9585e9dbc.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/422046/posters/65ce9585e9dbc.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>המובסים (2021)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/93781?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/366384" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt8879894" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Fri, 30 Oct 2020 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/series/366384/posters/5faaa3f293de8.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/series/366384/posters/5faaa3f293de8.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>עקבות בשטח (2019)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/94923?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/371536" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt9074360" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sat, 26 Oct 2019 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5db8218dee6fc.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5db8218dee6fc.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>יורשי הלילה (2020)</title>
@@ -96,7 +96,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/93842?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/371446" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt8347410" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Fri, 25 Oct 2019 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/series/371446/posters/5ea4966085ebe.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/series/371446/posters/5ea4966085ebe.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>דור מלחמה (2013)</title>
@@ -119,7 +119,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/46849?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/267864" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt1883092" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 17 Mar 2013 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/267864-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/267864-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
