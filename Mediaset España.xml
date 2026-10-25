@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>Mediaset España series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>Mediaset España series</description>
+<title>Mediaset España - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>Mediaset España - סדרות</description>
 
 <item>
 <title>Sandokan (2025) (2025)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/271855?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/448764" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt13924304" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 01 Dec 2025 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/448764/posters/6905067fd8aa0.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/448764/posters/6905067fd8aa0.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>רחובות קשוחים (2021)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/128015?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/396583" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt13980362" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Tue, 01 Feb 2022 00:00:00 -0000</pubDate>
-<enclosure url="https://m.media-amazon.com/images/M/MV5BMGZhOTcwY2UtZjFlYS00N2E1LWFmNjgtZWU1NTExZmMzMjgwXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_QL75_UY281_CR1,0,190,281_.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://m.media-amazon.com/images/M/MV5BMGZhOTcwY2UtZjFlYS00N2E1LWFmNjgtZWU1NTExZmMzMjgwXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_QL75_UY281_CR1,0,190,281_.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>צוות מיוחד קוסטה דל סול (2019)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/89171?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/348587" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt8476166" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 06 May 2019 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5cbb26c8cad61.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5cbb26c8cad61.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>רשות לחיות (2019)</title>
@@ -96,7 +96,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/82516?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/340111" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt6970700" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 24 Sep 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5bad31831accf.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5bad31831accf.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>La Verdad (2018)</title>
@@ -119,7 +119,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/78678?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/334617" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5266260" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 21 May 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5b32a8b02567b.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5b32a8b02567b.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
