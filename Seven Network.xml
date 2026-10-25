@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>Seven Network series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>Seven Network series</description>
+<title>Seven Network - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>Seven Network - סדרות</description>
 
 <item>
 <title>Back with the Ex (2018)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/85830?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/346345" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt9316002" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Wed, 18 Apr 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5c386796ae397.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5c386796ae397.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>מבוקשות (2016)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/65628?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/304591" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5193358" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Tue, 09 Feb 2016 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/304591-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/304591-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>מקום בלב (2015)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/47335?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/269116" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2258904" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 28 Apr 2013 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/269116-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/269116-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Winners &amp; Losers (2011)</title>
@@ -96,7 +96,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/34371?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/242671" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt1767256" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Tue, 22 Mar 2011 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/242671-2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/242671-2.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
