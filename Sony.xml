@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>Sony series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>Sony series</description>
+<title>Sony - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>Sony - סדרות</description>
 
 <item>
 <title>סטארט אפ (2016)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/66310?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/310614" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5028002" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Tue, 06 Sep 2016 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/310614-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/310614-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Sequestered (2014)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/61187?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/282424" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt3739118" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Tue, 05 Aug 2014 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/282424-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/282424-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>נבחר (2013)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/26777?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/264954" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2390334" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 17 Jan 2013 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/264954-2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/264954-2.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>קומיקאים במכוניות (2012)</title>
@@ -96,7 +96,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/59717?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/260845" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2314952" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 19 Jul 2012 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/260845-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/260845-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
