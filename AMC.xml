@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>AMC series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>AMC series</description>
+<title>AMC - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>AMC - סדרות</description>
 
 <item>
 <title>השק השחור המלוכלך ההוא (2022)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/157084?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/413035" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt7809420" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 10 Mar 2022 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/413035/posters/621e4bd008585.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/413035/posters/621e4bd008585.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>רצח בשישה חלקים (2021)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/135156?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/397146" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt14129418" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 11 Nov 2021 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/397146/posters/6160afc26f293.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/397146/posters/6160afc26f293.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>המים הצפוניים (2021)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/86941?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/366476" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt7660970" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Wed, 14 Jul 2021 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/366476/posters/60dff78799f7d.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/366476/posters/60dff78799f7d.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
