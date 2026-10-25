@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>Nine Network series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>Nine Network series</description>
+<title>Nine Network - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>Nine Network - סדרות</description>
 
 <item>
 <title>טעות אנוש (2024)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/241363?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/452838" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt22053876" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Wed, 11 Sep 2024 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/452838/posters/66b04ed056871.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/452838/posters/66b04ed056871.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>גרייס המופלאה (2021)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/119925?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/393975" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt13151104" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Wed, 03 Mar 2021 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/series/393975/posters/603c8eeabcd30.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/series/393975/posters/603c8eeabcd30.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>אימהות רעות (2019)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/86743?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/357523" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt9336906" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 18 Feb 2019 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5c6aa4e5236c2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5c6aa4e5236c2.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>רופא כלבבי (2021)</title>
@@ -96,7 +96,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/67728?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/316394" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt6015808" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Wed, 14 Sep 2016 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/316394-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/316394-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>הבטן הרכה (2009)</title>
@@ -119,7 +119,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/13796?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/81346" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt1119176" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Wed, 13 Feb 2008 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/81346-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/81346-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>פארסקייפ (2002)</title>
@@ -142,7 +142,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/4271?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/70522" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt0187636" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Fri, 19 Mar 1999 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/70522-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/70522-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
