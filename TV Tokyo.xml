@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>TV Tokyo series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>TV Tokyo series</description>
+<title>TV Tokyo - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>TV Tokyo - סדרות</description>
 
 <item>
 <title>SYNDUALITY Noir (2023)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/210181?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/424779" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt24240038" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Tue, 11 Jul 2023 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/424779/posters/63214f32298fe.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/424779/posters/63214f32298fe.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>SPY x FAMILY (2022)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/120089?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/405920" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt13706018" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sat, 09 Apr 2022 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/405920/posters/617ec4866aa69.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/405920/posters/617ec4866aa69.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Mob Psycho 100 (2018) (2018)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/75867?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/337829" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt7701694" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Fri, 12 Jan 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://m.media-amazon.com/images/M/MV5BOGMzODczNDctZGMzMS00MGI3LTg1Y2UtODRiMmNkZmFiZGZhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_QL75_UY281_CR5,0,190,281_.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://m.media-amazon.com/images/M/MV5BOGMzODczNDctZGMzMS00MGI3LTg1Y2UtODRiMmNkZmFiZGZhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_QL75_UY281_CR5,0,190,281_.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title> (2017)</title>
@@ -96,7 +96,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/91711?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/365149" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt14941188" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sat, 01 Apr 2017 00:00:00 -0000</pubDate>
-<enclosure url="https://m.media-amazon.com/images/M/MV5BZDAwN2E4ODEtNzY5MC00YTVlLWI1MjAtN2I1OTIyNTZlMmUyXkEyXkFqcGdeQXVyMzk2NTIwMzc@._V1_QL75_UY281_CR6,0,190,281_.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://m.media-amazon.com/images/M/MV5BZDAwN2E4ODEtNzY5MC00YTVlLWI1MjAtN2I1OTIyNTZlMmUyXkEyXkFqcGdeQXVyMzk2NTIwMzc@._V1_QL75_UY281_CR6,0,190,281_.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>איש האגרוף הבודד (2018)</title>
@@ -119,7 +119,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/63926?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/293088" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt4508902" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 05 Oct 2015 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/293088-2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/293088-2.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>חלוצי החלל 2199 (2012)</title>
@@ -142,7 +142,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/45844?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/259675" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2496120" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 07 Apr 2013 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/259675-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/259675-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>נארוטו (2002)</title>
@@ -165,7 +165,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/46260?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/78857" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt0409591" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 03 Oct 2002 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/78857-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/78857-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>נאון ג'נסיס אוונגליון (2019)</title>
@@ -188,7 +188,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/890?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/70350" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt0112159" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Wed, 04 Oct 1995 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/70350-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/70350-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
