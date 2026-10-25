@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>Nippon TV series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>Nippon TV series</description>
+<title>Nippon TV - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>Nippon TV - סדרות</description>
 
 <item>
 <title>הקיץ שבו היקארו מת (2025)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/278196?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/450428" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt33028568" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 06 Jul 2025 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/450428/posters/667d5677ab6a4.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/450428/posters/667d5677ab6a4.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>ראנמה חצי (2024)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/259140?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/451479" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt32766897" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 06 Oct 2024 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/451479/posters/669daa2c758f6.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/451479/posters/669daa2c758f6.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>The Fable (2024)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/238843?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/436948" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt28329410" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 07 Apr 2024 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/436948/posters/6608d95e2fa64.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/436948/posters/6608d95e2fa64.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>EDENS ZERO (2021)</title>
@@ -96,7 +96,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/104711?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/388645" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt13167196" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 11 Apr 2021 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/series/388645/posters/6017dada4d2a4.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/series/388645/posters/6017dada4d2a4.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>אקדמיית הגיבורים שלי (2020)</title>
@@ -119,7 +119,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/65930?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/305074" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5626028" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 03 Apr 2016 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/305074-2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/305074-2.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>אינויאשה (2002)</title>
@@ -142,7 +142,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/35610?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/71361" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt0290223" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 16 Oct 2000 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/71361-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/71361-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Monkey (1978)</title>
@@ -165,7 +165,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/13826?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/78563" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt0078659" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 01 Oct 1978 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/78563-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/78563-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
