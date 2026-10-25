@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>NPO series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>NPO series</description>
+<title>NPO - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>NPO - סדרות</description>
 
 <item>
 <title> (2024)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/233665?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/445086" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt10540338" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 10 Mar 2024 00:00:00 -0000</pubDate>
-<enclosure url="https://m.media-amazon.com/images/M/MV5BNjRjMDJjYWUtOTUwZS00NzhiLTkxNDgtY2Y0Mzc3NDk1NDUzXkEyXkFqcGc@._V1_.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://m.media-amazon.com/images/M/MV5BNjRjMDJjYWUtOTUwZS00NzhiLTkxNDgtY2Y0Mzc3NDk1NDUzXkEyXkFqcGc@._V1_.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>שעת הזהב (2022)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/212408?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/426343" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt15554596" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 23 Oct 2022 00:00:00 -0000</pubDate>
-<enclosure url="https://m.media-amazon.com/images/M/MV5BMWM0ZjBjYWQtZWMyMy00OWQ2LWI2ZDYtMjEwMDA0NjU0MzExXkEyXkFqcGdeQXVyMTA2MjM3OTM0._V1_.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://m.media-amazon.com/images/M/MV5BMWM0ZjBjYWQtZWMyMy00OWQ2LWI2ZDYtMjEwMDA0NjU0MzExXkEyXkFqcGdeQXVyMTA2MjM3OTM0._V1_.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title> (2022)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/208831?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/424979" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt21322416" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 29 Sep 2022 00:00:00 -0000</pubDate>
-<enclosure url="https://m.media-amazon.com/images/M/MV5BZGM1Yjk4Y2EtOGQ4MC00ODFiLTkxZDEtODM5MGZhZDc2YWI0XkEyXkFqcGdeQXVyMTQ5NTc1NTA@._V1_.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://m.media-amazon.com/images/M/MV5BZGM1Yjk4Y2EtOGQ4MC00ODFiLTkxZDEtODM5MGZhZDc2YWI0XkEyXkFqcGdeQXVyMTQ5NTc1NTA@._V1_.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
