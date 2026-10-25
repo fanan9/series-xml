@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>ספורט series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>ספורט series</description>
+<title>ספורט - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>ספורט - סדרות</description>
 
 <item>
 <title>קפטנים (2022)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/213180?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/422070" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt23019922" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 24 Oct 2022 00:00:00 -0000</pubDate>
-<enclosure url="https://image.tmdb.org/t/p/w780/zvPCvCO8ljuQ6NAOijSARuEqIsA.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://image.tmdb.org/t/p/w780/zvPCvCO8ljuQ6NAOijSARuEqIsA.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>תיכון אליפות (2021)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/131114?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/407475" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt15192032" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Fri, 27 Aug 2021 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/407475/posters/6127658630571.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/407475/posters/6127658630571.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>מותירים חותם (2021)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/114624?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/393036" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt13833756" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Fri, 12 Mar 2021 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/393036/posters/604deb609f86e.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/393036/posters/604deb609f86e.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Cricket Fever - Mumbai Indians (2019)</title>
@@ -96,7 +96,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/87070?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/360428" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt8531592" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Fri, 01 Mar 2019 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5c83af112b44e.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5c83af112b44e.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>יום הבחירה (2018)</title>
@@ -119,7 +119,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/84310?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/354064" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt8004628" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Fri, 28 Dec 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://m.media-amazon.com/images/M/MV5BYmEyYTY2Y2MtY2Q4Yy00NDFjLTg3MzQtYjllMTViMzBjNzlmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://m.media-amazon.com/images/M/MV5BYmEyYTY2Y2MtY2Q4Yy00NDFjLTg3MzQtYjllMTViMzBjNzlmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
