@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>RTL series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>RTL series</description>
+<title>RTL - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>RTL - סדרות</description>
 
 <item>
 <title>הקיסרית סיסי (2021)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/153282?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/402954" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt11269100" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Tue, 28 Dec 2021 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/402954/posters/60a04c87ca801.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/402954/posters/60a04c87ca801.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>קפיטני (2021)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/95638?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/371740" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt10483610" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Tue, 01 Oct 2019 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/series/371740/posters/60256807930c2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/series/371740/posters/60256807930c2.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>אנחנו עכשיו (2019)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/89055?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/363350" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt10256646" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sat, 27 Apr 2019 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/series/363350/posters/5f7c7611eddc7.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/series/363350/posters/5f7c7611eddc7.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Deutschland (2015)</title>
@@ -96,7 +96,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/62681?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/294801" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt4445154" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Wed, 17 Jun 2015 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/294801-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/294801-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
