@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>KBS series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>KBS series</description>
+<title>KBS - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>KBS - סדרות</description>
 
 <item>
 <title>Dimension W (2016)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/65712?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/299963" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5334292" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 10 Jan 2016 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/299963-2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/299963-2.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Valkyrie Drive: Mermaid (2015)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/66926?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/299326" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5235870" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sat, 10 Oct 2015 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/299326-4.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/299326-4.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Full House (2004) (2004)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/3504?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/84928" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt0464625" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Wed, 14 Jul 2004 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/84928-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/84928-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
