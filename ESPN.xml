@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>ESPN series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>ESPN series</description>
+<title>ESPN - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>ESPN - סדרות</description>
 
 <item>
 <title>הקפטן (2022)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/197357?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/422070" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt14713552" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 18 Jul 2022 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/422070/posters/62d5710fa5502.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/422070/posters/62d5710fa5502.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>מייקל ג'ורדן: הריקוד האחרון (2020)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/79525?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/347721" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt8420184" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 19 Apr 2020 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/series/347721/posters/5e9b2dc18d4fa.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/series/347721/posters/5e9b2dc18d4fa.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
