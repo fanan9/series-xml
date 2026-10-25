@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>Canal+ series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>Canal+ series</description>
+<title>Canal+ - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>Canal+ - סדרות</description>
 
 <item>
 <title>הפריצה (2024)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/229580?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/446306" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt30472032" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 07 Apr 2024 00:00:00 -0000</pubDate>
-<enclosure url="https://m.media-amazon.com/images/M/MV5BMTdjNjcyOTUtMDUzMi00MjVkLTgxZTQtZmU1YmUzMWU5OGU0XkEyXkFqcGc@._V1_QL75_UY281_CR19,0,190,281_.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://m.media-amazon.com/images/M/MV5BMTdjNjcyOTUtMDUzMi00MjVkLTgxZTQtZmU1YmUzMWU5OGU0XkEyXkFqcGc@._V1_QL75_UY281_CR19,0,190,281_.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>מחזיקות מעמד (2021)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/127108?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/407512" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5540990" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 06 Sep 2021 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/407512/posters/6132f2098c91c.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/407512/posters/6132f2098c91c.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
