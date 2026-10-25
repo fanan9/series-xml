@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>TVNZ series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>TVNZ series</description>
+<title>TVNZ - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>TVNZ - סדרות</description>
 
 <item>
 <title>אחרי המסיבה (2023)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/238005?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/429119" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt23845296" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 29 Oct 2023 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/429119/posters/6540e29193325.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/429119/posters/6540e29193325.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>האגדות החדשות על מאנקי (2018)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/71577?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/340509" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt6807662" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 28 Jan 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/340509-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/340509-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>The Casketeers (2018)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/84181?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/342159" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt8365054" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sat, 13 Jan 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5c1cf47c9808a.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5c1cf47c9808a.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
