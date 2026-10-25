@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <language>he</language>
-<title>AMC Networks series</title>
-<link>https://t.me/TitSoraNonStopSeries</link>
-<description>AMC Networks series</description>
+<title>AMC Networks - סדרות</title>
+<link>https://127.0.0.1</link>
+<description>AMC Networks - סדרות</description>
 
 <item>
 <title>The Audacity (2026)</title>
@@ -27,7 +27,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/258036?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/459000" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt30923123" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 05 Apr 2026 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/459000/posters/698fee2af2639.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/459000/posters/698fee2af2639.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>טלמסקה (2025)</title>
@@ -50,7 +50,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/256624?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/433933" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt32596156" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 19 Oct 2025 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/433933/posters/689222750c520.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/433933/posters/689222750c520.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>פריש (2024)</title>
@@ -73,7 +73,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/194741?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/417605" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt18552362" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 31 Mar 2024 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/417605/posters/643bfa5f3e945.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/417605/posters/643bfa5f3e945.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>המתים המהלכים: אלה שחיים (2024)</title>
@@ -96,7 +96,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/206586?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/427202" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt9859436" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 25 Feb 2024 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/427202/posters/64fe0a7b846cf.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/427202/posters/64fe0a7b846cf.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Monsieur Spade (2024)</title>
@@ -119,7 +119,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/209479?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/424966" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt14203572" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 14 Jan 2024 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/424966/posters/655856b002fbd.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/424966/posters/655856b002fbd.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>המתים המהלכים: דריל דיקסון (2023)</title>
@@ -142,7 +142,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/211684?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/427464" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt13062500" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 10 Sep 2023 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/427464/posters/64905e8115e50.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/427464/posters/64905e8115e50.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>המתים המהלכים: עיר המתים (2023)</title>
@@ -165,7 +165,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/194583?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/417549" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt18546730" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 18 Jun 2023 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/417549/posters/64207fb39a25f.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/417549/posters/64207fb39a25f.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>המזל של האנק (2023)</title>
@@ -188,7 +188,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/210239?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/419270" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt19785210" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 19 Mar 2023 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/419270/posters/63e1083f9c6be.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/419270/posters/63e1083f9c6be.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>מכשפות מייפייר (2023)</title>
@@ -211,7 +211,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/207863?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/413074" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt15428778" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 08 Jan 2023 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/413074/posters/635d68b1c9b68.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/413074/posters/635d68b1c9b68.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>סיפורי המתים המהלכים (2022)</title>
@@ -234,7 +234,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/136248?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/411314" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt15669534" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 14 Aug 2022 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/411314/posters/62527f96523d7.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/411314/posters/62527f96523d7.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Dark Winds (2022)</title>
@@ -257,7 +257,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/128904?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/406179" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt15017118" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 12 Jun 2022 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/v4/series/406179/posters/625ec4f7c0046.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/v4/series/406179/posters/625ec4f7c0046.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Soulmates (2020) (2020)</title>
@@ -280,7 +280,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/100771?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/380909" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt10394844" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 05 Oct 2020 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/series/380909/posters/5f6ec1d106f45.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/series/380909/posters/5f6ec1d106f45.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>רכבת הקרח (2020)</title>
@@ -303,7 +303,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/79680?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/364928" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt6156584" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 17 May 2020 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/series/364928/posters/62051211.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/series/364928/posters/62051211.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>שדרים ממקום אחר (2020)</title>
@@ -326,7 +326,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/81241?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/371820" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt8965666" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 01 Mar 2020 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/series/371820/posters/62070828.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/series/371820/posters/62070828.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>נוספורטו (2019)</title>
@@ -349,7 +349,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/85273?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/359637" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5194792" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 02 Jun 2019 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5ca853f25706e.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5ca853f25706e.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Jonestown: Terror in the Jungle (2018)</title>
@@ -372,7 +372,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/83737?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/354573" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt8014232" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sat, 17 Nov 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5bf1f6e9a28a2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5bf1f6e9a28a2.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Lodge 49 (2018)</title>
@@ -395,7 +395,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/80925?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/346081" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt6128254" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 06 Aug 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/5b314eb185b47.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/5b314eb185b47.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Dietland (2018)</title>
@@ -418,7 +418,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/79005?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/344186" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5869202" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 04 Jun 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/344186-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/344186-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>להרוג את איב (2018)</title>
@@ -441,7 +441,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/72750?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/340959" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt7016936" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 08 Apr 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/340959-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/340959-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>האימה (2018)</title>
@@ -464,7 +464,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/75191?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/322191" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2708480" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 26 Mar 2018 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/322191-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/322191-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>סטן נגד כוחות הרשע (2016)</title>
@@ -487,7 +487,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/67832?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/315153" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5722214" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 31 Oct 2016 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/315153-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/315153-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>סוכנות הבילוש של דירק ג'נטלי (2016)</title>
@@ -510,7 +510,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/67773?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/312505" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt4047038" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sat, 22 Oct 2016 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/312505-4.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/312505-4.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>להאכיל את המפלצת (2017)</title>
@@ -533,7 +533,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/66316?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/305722" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5363766" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 05 Jun 2016 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/305722-2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/305722-2.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>המטיף (2016)</title>
@@ -556,7 +556,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/64230?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/300472" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt5016504" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 22 May 2016 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/300472-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/300472-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>אדמת הפקר (2015)</title>
@@ -579,7 +579,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/47450?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/289079" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt3865236" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 15 Nov 2015 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/289079-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/289079-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>אימת המתים המהלכים (2015)</title>
@@ -602,7 +602,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/62286?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/290853" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt3743822" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 23 Aug 2015 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/290853-5.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/290853-5.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>דוקו עכשיו (2015)</title>
@@ -625,7 +625,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/63593?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/295697" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt4677934" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 20 Aug 2015 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/295697-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/295697-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>סמוך על סול (2015)</title>
@@ -648,7 +648,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/60059?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/273181" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt3032476" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 08 Feb 2015 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/273181-3.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/273181-3.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>פולשים (2014)</title>
@@ -671,7 +671,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/61231?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/277500" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt3552166" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sat, 23 Aug 2014 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/277500-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/277500-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>קוד שרוף (2014)</title>
@@ -694,7 +694,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/59659?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/271910" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2543312" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 01 Jun 2014 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/271910-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/271910-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>המרגלים מוושינגטון (2014)</title>
@@ -717,7 +717,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/57276?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/272135" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2543328" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 06 Apr 2014 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/272135-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/272135-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>הדרך האדומה (2014)</title>
@@ -740,7 +740,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/57273?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/274869" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2505072" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 27 Feb 2014 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/274869-3.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/274869-3.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>המוסקטרים (2014)</title>
@@ -763,7 +763,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/57736?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/269159" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2733252" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 19 Jan 2014 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/269159-3.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/269159-3.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>אוצרות בבל (2014)</title>
@@ -786,7 +786,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/50132?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/274387" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2884286" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 09 Jan 2014 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/274387-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/274387-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>התיקון (2013)</title>
@@ -809,7 +809,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/46619?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/266609" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2183404" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 22 Apr 2013 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/266609-2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/266609-2.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>אורפן בלאק (2013)</title>
@@ -832,7 +832,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/56296?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/260315" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2234222" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sat, 30 Mar 2013 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/260315-4.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/260315-4.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>קצה האגם (2013)</title>
@@ -855,7 +855,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/46638?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/260320" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2103085" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Mon, 18 Mar 2013 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/260320-4.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/260320-4.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>שוטר (2012)</title>
@@ -878,7 +878,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/44983?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/257939" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt2006374" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 11 Oct 2012 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/257939-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/257939-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>גיהנום על גלגלים (2012)</title>
@@ -901,7 +901,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/1401?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/212961" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt1699748" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 06 Nov 2011 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/212961-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/212961-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>השעה (2011)</title>
@@ -924,7 +924,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/39718?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/248503" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt1778108" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Tue, 19 Jul 2011 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/248503-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/248503-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>ההריגה (2011)</title>
@@ -947,7 +947,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/34415?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/210171" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt1637727" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 03 Apr 2011 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/210171-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/210171-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>המתים המהלכים (2010)</title>
@@ -970,7 +970,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/1402?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/153021" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt1520211" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 31 Oct 2010 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/153021-6.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/153021-6.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>רוביקון (2010)</title>
@@ -993,7 +993,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/30892?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/158411" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt1389371" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 13 Jun 2010 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/158411-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/158411-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>האסיר (2010)</title>
@@ -1016,7 +1016,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/31319?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/85242" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt1043714" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 15 Nov 2009 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/85242-4.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/85242-4.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>שובר שורות (2012)</title>
@@ -1039,7 +1039,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/1396?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/81189" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt0903747" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 20 Jan 2008 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/81189-3.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/81189-3.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>מד מן (2009)</title>
@@ -1062,7 +1062,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/1104?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/80337" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt0804503" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 19 Jul 2007 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/80337-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/80337-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>Broken Trail (2006)</title>
@@ -1085,7 +1085,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/20056?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/81129" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt0482857" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Sun, 25 Jun 2006 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/81129-1.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/81129-1.jpg" length="123456" type="image/jpeg"/>
 </item>
 <item>
 <title>The Staircase (2018)</title>
@@ -1108,7 +1108,7 @@
 <strong>מידע נוסף על הסדרה:</strong> <a href="https://www.themoviedb.org/tv/21421?language=he-IL" target="_blank">אתר TMDB</a> | <a href="https://thetvdb.com/dereferrer/series/92011" target="_blank">אתר TVDB</a> | <a href="https://www.imdb.com/title/tt0388644" target="_blank">אתר IMDB</a>
 </p>]]></description>
 <pubDate>Thu, 07 Oct 2004 00:00:00 -0000</pubDate>
-<enclosure url="https://thetvdb.com/banners/posters/92011-2.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://thetvdb.com/banners/posters/92011-2.jpg" length="123456" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
